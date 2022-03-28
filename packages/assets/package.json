@@ -1,0 +1,22 @@
+{
+  "name": "@GeisianeAraujo/ds-assets",
+  "version": "0.1.0",
+  "description": "Biblioteca de assets",
+  "main": "./dist/index.js",
+  "license": "ISC",
+  "repository": "https://github.com/GeisianeAraujo/designSystem",
+  "publishConfig": {
+    "@GeisianeAraujo:registry": "https://npm.pkg.github.com/GeisianeAraujo"
+  },
+  "files": [
+    "dist",
+    "src/assets"
+  ],
+  "scripts": {
+    "build": "rimraf dist && node src/build.js"
+  },
+  "devDependencies": {
+    "fs-extra": "^4.0.1",
+    "rimraf": "^3.0.2"
+  }
+}

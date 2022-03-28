@@ -1,0 +1,22 @@
+{
+  "name": "designsystem",
+  "version": "1.0.0",
+  "description": "Repositório de Design System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeisianeAraujo/designSystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeisianeAraujo/designSystem/issues"
+  },
+  "homepage": "https://github.com/GeisianeAraujo/designSystem#readme",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}

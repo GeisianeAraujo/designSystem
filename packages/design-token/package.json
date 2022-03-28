@@ -1,0 +1,21 @@
+{
+  "name": "@GeisianeAraujo/ds-design-tokens",
+  "version": "0.1.0",
+  "description": "Biblioteca de Design Tokens",
+  "main": "./src/index.js",
+  "license": "ISC",
+  "repository": "https://github.com/GeisianeAraujo/designSystem",
+  "publishConfig": {
+    "@GeisianeAraujo:registry": "https://npm.pkg.github.com/GeisianeAraujo"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "node src/index.js",
+    "build:dev": "rm -rf dist && node src/index.js"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.1.1"
+  }
+}
