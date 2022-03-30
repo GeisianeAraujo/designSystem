@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@GeisianeAraujo/ds-assets": "^0.1.0",
-    "@GeisianeAraujo/ds-design-tokens": "^0.1.0",
+    "@GeisianeAraujo/ds-design-tokens": "^0.1.2",
     "lit": "^2.0.2"
   },
   "devDependencies": {
