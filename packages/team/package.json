@@ -1,6 +1,6 @@
 {
   "name": "@GeisianeAraujo/ds-team",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./dist/index.js",
   "private": false,
   "license": "ISC",
@@ -13,7 +13,7 @@
     "README.md"
   ],
   "dependencies": {
-    "@GeisianeAraujo/ds-core": "^0.1.0",
+    "@GeisianeAraujo/ds-core": "^0.1.1",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
