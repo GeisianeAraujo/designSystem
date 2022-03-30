@@ -1,6 +1,6 @@
 {
   "name": "@GeisianeAraujo/ds-design-tokens",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Biblioteca de Design Tokens",
   "main": "./src/index.js",
   "license": "ISC",
